@@ -1,0 +1,43 @@
+
+{
+  "id" : 1,
+  "name" : "",
+  "course" : "shashikant",
+  "age" : 23
+}
+{
+  "id" : 2,
+  "name" : "sankata",
+  "course" : "mca",
+  "age" : 22
+}
+{
+  "id" : 1,
+  "name" : "",
+  "course" : "abcd",
+  "age" : 21
+}
+{
+  "id" : 2,
+  "name" : "xyz",
+  "course" : "btech",
+  "age" : 21
+}
+{
+  "id" : 1,
+  "name" : "skt",
+  "course" : "bca",
+  "age" : 23
+}
+{
+  "id" : 1,
+  "name" : "",
+  "course" : "abc",
+  "age" : 21
+}
+{
+  "id" : 2,
+  "name" : "avg",
+  "course" : "btech",
+  "age" : 22
+}
