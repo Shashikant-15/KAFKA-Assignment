@@ -1,2 +1,2 @@
-# Kafka-Assignment
+
 # KAFKA-Assignment
